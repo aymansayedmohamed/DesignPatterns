@@ -1,0 +1,7 @@
+D:\Learning\Design Patterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\Learning\Design Patterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\Learning\Design Patterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\Learning\Design Patterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+D:\Learning\Design Patterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\Learning\Design Patterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\Learning\Design Patterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
