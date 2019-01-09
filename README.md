@@ -4,21 +4,14 @@ This is a collection of known design patterns and some sample code how to implem
 
 
 ## Creational
-* [Builder](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Creational/builder)
-* [Prototype](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Creational/prototype)
-* [Singletone](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Creational/singletone)
+* [AbstractFactory](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/AbstractFactory)
+* [Factory](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/Factory)
 
-## Structural
-
-* [Facade](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Structural/Facade)
-* [Adapter](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Structural/adapter)
-* [Decorator](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Structural/decorator)
-* [Proxy](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Structural/proxy)
 
 ## Behavioral
 
-* [Command](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Behavioral/command)
-* [Iterator](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Behavioral/iterator)
-* [Observer](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Behavioral/observer)
-* [Strategy](https://github.com/abdelrahmanbadr/Go-Design-Patterns/tree/master/Behavioral/strategy)
+* [Command](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/Command)
+* [Strategy](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/Strategy)
+* [TemplateMethod](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/TemplateMethod)
+
 
