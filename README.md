@@ -4,7 +4,7 @@ This is a collection of known design patterns and some sample code how to implem
 
 
 ## Creational
-* [AbstractFactory](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/AbstractFactory) :
+* [AbstractFactory](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/AbstractFactory)
 : The abstract factory pattern provides a way to encapsulate a group of individual factories 
      that have a common theme without specifying their concrete classes.
 * [Factory](https://github.com/aymansayedmohamed/DesignPatterns/tree/master/Factory)
